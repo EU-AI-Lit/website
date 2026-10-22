@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "title": "ESAIL | EU Society for AI Literacy"
+  },
+  "nav": {
+    "about": "About",
+    "mission": "Mission",
+    "focus": "Focus Areas"
+  },
+  "hero": {
+    "eyebrow": "European Society for AI Literacy",
+    "title": "AI literacy for a more informed, democratic Europe.",
+    "subtitle": "ESAIL is focused on advancing AI literacy across the European Union.",
+    "primaryCta": "Learn more",
+    "secondaryCta": "Get involved",
+    "points": {
+      "trust": "Trustworthy AI",
+      "citizenship": "Digital citizenship",
+      "learning": "Inclusive learning"
+    }
+  },
+  "stats": {
+    "missionLabel": "Mission",
+    "missionValue": "Build AI literacy across Europe",
+    "prioritiesLabel": "Core priorities",
+    "publicInterestLabel": "Public interest"
+  },
+  "about": {
+    "tag": "About ESAIL",
+    "title": "Helping societies prepare for an AI-powered future.",
+    "paragraph1": "ESAIL brings together researchers, educators, civic organisations, policymakers, and citizens to improve understanding of artificial intelligence and its social impact.",
+    "paragraph2": "We believe that AI literacy is not only a technical skill, but a public responsibility. By promoting critical thinking, ethical awareness, and practical knowledge, we support a Europe where people can participate in informed digital decisions."
+  },
+  "mission": {
+    "tag": "Our mission",
+    "title": "Promoting understanding and participation at every level.",
+    "cards": {
+      "education": {
+        "title": "Education",
+        "text": "Supporting schools, universities, and lifelong learners with clear, accessible AI education."
+      },
+      "ethics": {
+        "title": "Ethics",
+        "text": "Encouraging responsible and transparent use of AI in public and private life."
+      },
+      "participation": {
+        "title": "Participation",
+        "text": "Empowering citizens and communities to engage with digital policy and innovation."
+      }
+    }
+  },
+  "focus": {
+    "tag": "Focus areas",
+    "title": "Where we work to strengthen AI literacy.",
+    "items": {
+      "publicUnderstanding": {
+        "title": "Public understanding",
+        "text": "Clear explanations of how AI works, what it can and cannot do, and how it affects daily life."
+      },
+      "policy": {
+        "title": "Policy & governance",
+        "text": "Helping citizens, institutions, and decision-makers understand AI regulation and accountability."
+      },
+      "skills": {
+        "title": "Skills & training",
+        "text": "Building practical digital and AI competencies across education, work, and community settings."
+      },
+      "access": {
+        "title": "Inclusive access",
+        "text": "Ensuring AI literacy is accessible, multilingual, and relevant to diverse communities."
+      }
+    },
+    "quote": "AI literacy is a foundation for democratic participation in the digital age."
+  },
+  "join": {
+    "tag": "A European perspective",
+    "title": "Building an informed and resilient society.",
+    "cta": "Support our work"
+  },
+  "footer": {
+    "title": "EU Society for AI Literacy"
+  }
+}
