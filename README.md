@@ -1,6 +1,6 @@
 # ESAIL website
 
-This is a simple static website for the EU Society for AI Literacy (ESAIL), designed to be hosted on GitHub Pages.
+This is a simple static website for the European Association for AI Literacy Research (ESAIL), designed to be hosted on GitHub Pages.
 
 ## Files
 

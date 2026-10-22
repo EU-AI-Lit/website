@@ -1,83 +1,108 @@
 {
   "meta": {
-    "title": "ESAIL | EU Society for AI Literacy"
+    "title": "ESAIL | European Society for AI Literacy Research ry"
   },
   "nav": {
     "about": "About",
     "mission": "Mission",
+    "membership": "Membership",
     "focus": "Focus Areas"
   },
   "hero": {
-    "eyebrow": "European Society for AI Literacy",
-    "title": "AI literacy for a more informed, democratic Europe.",
-    "subtitle": "ESAIL is focused on advancing AI literacy across the European Union.",
+    "eyebrow": "European Society for AI Literacy Research ry",
+    "title": "AI literacy for agency, trust, and democratic participation.",
+    "subtitle": "ESAIL advances AI literacy and AI education in a data-driven society, strengthening learners' critical understanding, agency, and resilience across Europe.",
     "primaryCta": "Learn more",
     "secondaryCta": "Get involved",
     "points": {
-      "trust": "Trustworthy AI",
-      "citizenship": "Digital citizenship",
-      "learning": "Inclusive learning"
+      "trust": "Research-led learning",
+      "citizenship": "Digital agency",
+      "learning": "AI literacy in education"
     }
   },
   "stats": {
     "missionLabel": "Mission",
-    "missionValue": "Build AI literacy across Europe",
-    "prioritiesLabel": "Core priorities",
-    "publicInterestLabel": "Public interest"
+    "missionValue": "Research-driven AI education across Europe",
+    "prioritiesLabel": "Core purposes",
+    "publicInterestLabel": "European scope"
   },
   "about": {
     "tag": "About ESAIL",
-    "title": "Helping societies prepare for an AI-powered future.",
-    "paragraph1": "ESAIL brings together researchers, educators, civic organisations, policymakers, and citizens to improve understanding of artificial intelligence and its social impact.",
-    "paragraph2": "We believe that AI literacy is not only a technical skill, but a public responsibility. By promoting critical thinking, ethical awareness, and practical knowledge, we support a Europe where people can participate in informed digital decisions."
+    "title": "Advancing research and practice in AI education across Europe.",
+    "paragraph1": "ESAIL is the European Society for AI Literacy Research ry, a registered Finnish association based in Joensuu. We promote research and educational practice that strengthen informed, critical participation in a data-driven society.",
+    "paragraph2": "The purpose of the Association is to promote research on AI education across Europe, support a Europe-wide community of individuals interested in AI education and AI literacy, and advance research-based teaching and learning that supports agency, trust, security, and democratic engagement in digital life."
   },
   "mission": {
     "tag": "Our mission",
-    "title": "Promoting understanding and participation at every level.",
+    "title": "Promoting research, learning, and collaboration in AI education.",
     "cards": {
       "education": {
-        "title": "Education",
-        "text": "Supporting schools, universities, and lifelong learners with clear, accessible AI education."
+        "title": "Research",
+        "text": "Advancing research on AI education and understanding how AI literacy strengthens critical thinking, agency, and resilience in a data-driven society."
       },
       "ethics": {
-        "title": "Ethics",
-        "text": "Encouraging responsible and transparent use of AI in public and private life."
+        "title": "Community",
+        "text": "Building a Europe-wide community of researchers, educators, and stakeholders committed to trustworthy and inclusive AI literacy."
       },
       "participation": {
-        "title": "Participation",
-        "text": "Empowering citizens and communities to engage with digital policy and innovation."
+        "title": "Educational practice",
+        "text": "Developing research-based materials, tools, and pedagogies that help learners understand algorithmic systems, bias, and digital agency."
       }
+    }
+  },
+  "membership": {
+    "tag": "Membership",
+    "title": "Open to individuals, institutions, and supporters across Europe.",
+    "cards": {
+      "individual": {
+        "title": "Individual members",
+        "text": "Private persons who accept the purpose and rules of the Association and hold voting rights."
+      },
+      "institutional": {
+        "title": "Institutional members",
+        "text": "Companies and other entities that accept the purpose and rules of the Association and hold voting rights."
+      },
+      "supporting": {
+        "title": "Supporting members",
+        "text": "Persons or entities that support the Association's activities but do not hold voting rights."
+      }
+    },
+    "governance": {
+      "boardTitle": "Board of Directors",
+      "boardText": "The affairs of the Association are managed by a Board of Directors consisting of a Chairperson, two to four other members, and up to two deputy members, all elected at the Annual General Meeting. The term of office is three calendar years.",
+      "meetingTitle": "Annual meeting",
+      "meetingText": "The Association holds one regular meeting annually, and the Annual General Meeting is convened no later than the end of April. Participation may also take place by telecommunications when decided by the Board or the meeting itself."
     }
   },
   "focus": {
     "tag": "Focus areas",
-    "title": "Where we work to strengthen AI literacy.",
+    "title": "The association's work in support of AI literacy.",
     "items": {
       "publicUnderstanding": {
-        "title": "Public understanding",
-        "text": "Clear explanations of how AI works, what it can and cannot do, and how it affects daily life."
+        "title": "Research and development",
+        "text": "Researching and developing materials, practices, and tools for teaching how AI systems shape public life, trust, and agency."
       },
       "policy": {
-        "title": "Policy & governance",
-        "text": "Helping citizens, institutions, and decision-makers understand AI regulation and accountability."
+        "title": "Support for scientific actors",
+        "text": "Providing grants, scholarships, awards, and other support to advance AI education research and evidence-based teaching."
       },
       "skills": {
-        "title": "Skills & training",
-        "text": "Building practical digital and AI competencies across education, work, and community settings."
+        "title": "Events and dissemination",
+        "text": "Organising events and publishing research to strengthen public understanding of AI, bias, security, and digital agency."
       },
       "access": {
-        "title": "Inclusive access",
-        "text": "Ensuring AI literacy is accessible, multilingual, and relevant to diverse communities."
+        "title": "Public engagement and collaboration",
+        "text": "Promoting AI literacy in society in cooperation with partners who safeguard trust, inclusion, and informed participation."
       }
     },
-    "quote": "AI literacy is a foundation for democratic participation in the digital age."
+    "quote": "AI literacy is essential to informed agency, trust, and democratic participation in digital society."
   },
   "join": {
-    "tag": "A European perspective",
-    "title": "Building an informed and resilient society.",
+    "tag": "A European association",
+    "title": "Supporting research, learning, and public understanding of AI literacy across Europe.",
     "cta": "Support our work"
   },
   "footer": {
-    "title": "EU Society for AI Literacy"
+    "title": "European Society for AI Literacy Research ry"
   }
 }
