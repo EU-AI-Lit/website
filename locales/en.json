@@ -1,6 +1,6 @@
 {
     "meta": {
-        "title": "ESAIL | European Society for AI Literacy Research ry"
+        "title": "ESAIL | European Society for AI Literacy Research"
     },
     "nav": {
         "about": "About",
@@ -9,9 +9,9 @@
         "focus": "Focus Areas"
     },
     "hero": {
-        "eyebrow": "European Society for AI Literacy Research ry",
+        "eyebrow": "European Society for AI Literacy Research",
         "title": "AI literacy for agency, trust, and democratic participation.",
-        "subtitle": "ESAIL advances AI literacy and AI education in a data-driven society, strengthening learners' critical understanding, agency, and resilience across Europe.",
+        "subtitle": "ESAIL advances AI literacy in a data-driven society, strengthening learners' critical understanding, agency, and resilience across Europe.",
         "primaryCta": "Learn more",
         "secondaryCta": "Get involved",
         "points": {
@@ -29,7 +29,7 @@
     "about": {
         "tag": "About ESAIL",
         "title": "Advancing research and practice in AI education across Europe.",
-        "paragraph1": "ESAIL is the European Society for AI Literacy Research ry, a registered Finnish association. We promote research and educational practice that strengthen informed, critical participation in a data-driven society.",
+        "paragraph1": "ESAIL is the European Society for AI Literacy Research, a registered Finnish association. We promote research and educational practice that strengthen informed, critical participation in a data-driven society.",
         "paragraph2": "The purpose of the Association is to promote research on AI education across Europe, support a Europe-wide community of individuals interested in AI education and AI literacy, and advance research-based teaching and learning that supports agency, trust, security, and democratic engagement in digital life."
     },
     "mission": {
